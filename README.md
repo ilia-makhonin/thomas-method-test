@@ -1,1 +1,1 @@
-"# thomas-method-test" 
+# thomas-method-test
